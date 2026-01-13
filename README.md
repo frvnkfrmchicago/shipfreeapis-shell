@@ -10,6 +10,8 @@ Curated directory of 50+ free APIs for developers building without budget.
 
 ShipFreeAPIs helps developers find free APIs across 22 categories — from AI and maps to weather and gaming. Features tier-based filtering (Truly Free, Generous Free, Credit-Based) and a curated collection that actually works.
 
+🔗 https://shipfreeapis.vercel.app
+
 ---
 
 ## Features
