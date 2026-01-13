@@ -1,0 +1,504 @@
+[
+  {
+    "category": "AI / Intelligence",
+    "icon": "🧠",
+    "items": [
+      {
+        "name": "Gemini 3 Flash",
+        "freeTier": "5,000 searches/mo (Grounding)",
+        "useCase": "Search-powered AI, reasoning, multimodal",
+        "url": "https://ai.google.dev/pricing",
+        "tier": "generous"
+      },
+      {
+        "name": "Groq",
+        "freeTier": "1,000 req/day",
+        "useCase": "Ultra-fast LLM inference (Llama, Mixtral)",
+        "url": "https://console.groq.com",
+        "tier": "generous"
+      }
+    ]
+  },
+  {
+    "category": "Search & Web Data",
+    "icon": "🔍",
+    "items": [
+      {
+        "name": "Gemini Grounding",
+        "freeTier": "5,000 queries/mo",
+        "useCase": "Real-time web search via Google index",
+        "url": "https://ai.google.dev/gemini-api/docs/google-search",
+        "tier": "generous"
+      },
+      {
+        "name": "Serper.dev",
+        "freeTier": "2,500 queries to start",
+        "useCase": "Google SERP data (structured)",
+        "url": "https://serper.dev",
+        "tier": "credit"
+      }
+    ]
+  },
+  {
+    "category": "Trends & Social",
+    "icon": "📊",
+    "items": [
+      {
+        "name": "Reddit API",
+        "freeTier": "100 req/min (OAuth)",
+        "useCase": "Subreddit trends, sentiment, discussions",
+        "url": "https://www.reddit.com/dev/api/",
+        "tier": "free"
+      },
+      {
+        "name": "SociaVault",
+        "freeTier": "50 credits free",
+        "useCase": "25+ platforms (TikTok, IG, YT, X, LinkedIn)",
+        "url": "https://sociavault.com",
+        "tier": "credit"
+      },
+      {
+        "name": "News API",
+        "freeTier": "100 req/day",
+        "useCase": "Headlines, trending news by keyword",
+        "url": "https://newsapi.org",
+        "tier": "generous"
+      }
+    ]
+  },
+  {
+    "category": "Social Profiles",
+    "icon": "👥",
+    "items": [
+      {
+        "name": "SociaVault",
+        "freeTier": "50 credits",
+        "useCase": "25+ platforms unified access",
+        "url": "https://sociavault.com",
+        "tier": "credit"
+      },
+      {
+        "name": "influencers.club",
+        "freeTier": "Free tier",
+        "useCase": "190M+ influencer profiles",
+        "url": "https://influencers.club",
+        "tier": "generous"
+      }
+    ]
+  },
+  {
+    "category": "City & Location",
+    "icon": "🏙️",
+    "items": [
+      {
+        "name": "API Ninjas City",
+        "freeTier": "~50,000 cities",
+        "useCase": "Population, lat/long, country",
+        "url": "https://api-ninjas.com/api/city",
+        "tier": "generous"
+      },
+      {
+        "name": "Teleport",
+        "freeTier": "Free",
+        "useCase": "Quality of life scores (education, safety)",
+        "url": "https://developers.teleport.org/api/",
+        "tier": "free"
+      },
+      {
+        "name": "REST Countries",
+        "freeTier": "Unlimited (No key)",
+        "useCase": "Country info (flags, currency, borders)",
+        "url": "https://restcountries.com",
+        "tier": "free"
+      },
+      {
+        "name": "IPstack",
+        "freeTier": "100 req/mo",
+        "useCase": "IP to location",
+        "url": "https://ipstack.com",
+        "tier": "generous"
+      }
+    ]
+  },
+  {
+    "category": "Maps & Geocoding",
+    "icon": "🗺️",
+    "items": [
+      {
+        "name": "Mapbox",
+        "freeTier": "100k map loads/mo",
+        "useCase": "Interactive maps, navigation",
+        "url": "https://www.mapbox.com",
+        "tier": "generous"
+      },
+      {
+        "name": "Positionstack",
+        "freeTier": "25,000 req/mo",
+        "useCase": "Address to coordinates",
+        "url": "https://positionstack.com",
+        "tier": "generous"
+      }
+    ]
+  },
+  {
+    "category": "Weather",
+    "icon": "🌦️",
+    "items": [
+      {
+        "name": "Open-Meteo",
+        "freeTier": "Unlimited (Open Source)",
+        "useCase": "Hyperlocal forecasts, no auth",
+        "url": "https://open-meteo.com",
+        "tier": "free"
+      }
+    ]
+  },
+  {
+    "category": "Music & Audio",
+    "icon": "🎵",
+    "items": [
+      {
+        "name": "Spotify API",
+        "freeTier": "Free (OAuth)",
+        "useCase": "Playlists, metadata, recommendations",
+        "url": "https://developer.spotify.com",
+        "tier": "free"
+      },
+      {
+        "name": "Mubert AI",
+        "freeTier": "Free tier",
+        "useCase": "AI-generated royalty-free music",
+        "url": "https://mubert.com",
+        "tier": "generous"
+      }
+    ]
+  },
+  {
+    "category": "Speech (TTS/STT)",
+    "icon": "🗣️",
+    "items": [
+      {
+        "name": "AssemblyAI",
+        "freeTier": "$50 credit (~100 hrs)",
+        "useCase": "Transcription, speaker ID, sentiment",
+        "url": "https://www.assemblyai.com",
+        "tier": "credit"
+      },
+      {
+        "name": "Deepgram",
+        "freeTier": "$200 credit",
+        "useCase": "High-accuracy real-time STT",
+        "url": "https://deepgram.com",
+        "tier": "credit"
+      }
+    ]
+  },
+  {
+    "category": "Image Gen",
+    "icon": "🎨",
+    "items": [
+      {
+        "name": "Leonardo.ai",
+        "freeTier": "150 tokens/day",
+        "useCase": "Fast AI images (SD, custom models)",
+        "url": "https://leonardo.ai",
+        "tier": "generous"
+      }
+    ]
+  },
+  {
+    "category": "Notifications",
+    "icon": "📲",
+    "items": [
+      {
+        "name": "OneSignal",
+        "freeTier": "Unlimited users",
+        "useCase": "Push (iOS, Android, Web)",
+        "url": "https://onesignal.com",
+        "tier": "free"
+      },
+      {
+        "name": "SendGrid",
+        "freeTier": "100 emails/day",
+        "useCase": "Transactional email",
+        "url": "https://sendgrid.com",
+        "tier": "generous"
+      }
+    ]
+  },
+  {
+    "category": "Deployment",
+    "icon": "🏗️",
+    "items": [
+      {
+        "name": "Vercel",
+        "freeTier": "Unlimited static",
+        "useCase": "Next.js, PWAs",
+        "url": "https://vercel.com",
+        "tier": "free"
+      },
+      {
+        "name": "Supabase",
+        "freeTier": "500MB DB, 50k auth",
+        "useCase": "Postgres + Auth",
+        "url": "https://supabase.com",
+        "tier": "generous"
+      },
+      {
+        "name": "Cloudflare Pages",
+        "freeTier": "Unlimited static",
+        "useCase": "Global CDN",
+        "url": "https://pages.cloudflare.com",
+        "tier": "free"
+      }
+    ]
+  },
+  {
+    "category": "Gaming",
+    "icon": "🎮",
+    "items": [
+      {
+        "name": "IGDB",
+        "freeTier": "Free (commercial OK)",
+        "useCase": "Game database (titles, releases, art)",
+        "url": "https://api-docs.igdb.com",
+        "tier": "free"
+      },
+      {
+        "name": "FreeToGame",
+        "freeTier": "Unlimited (No auth)",
+        "useCase": "Free-to-play game listings",
+        "url": "https://www.freetogame.com/api-docs",
+        "tier": "free"
+      },
+      {
+        "name": "RAWG",
+        "freeTier": "Free tier",
+        "useCase": "Open video game database",
+        "url": "https://rawg.io/apidocs",
+        "tier": "generous"
+      },
+      {
+        "name": "PokeAPI",
+        "freeTier": "Unlimited (No key)",
+        "useCase": "Pokémon data for gamification",
+        "url": "https://pokeapi.co",
+        "tier": "free"
+      }
+    ]
+  },
+  {
+    "category": "Creators",
+    "icon": "📹",
+    "items": [
+      {
+        "name": "YouTube Data API",
+        "freeTier": "10,000 units/day",
+        "useCase": "Video search, playlists, analytics",
+        "url": "https://developers.google.com/youtube/v3",
+        "tier": "generous"
+      },
+      {
+        "name": "Twitch API",
+        "freeTier": "Free (OAuth)",
+        "useCase": "Streams, channels, chat, games",
+        "url": "https://dev.twitch.tv",
+        "tier": "free"
+      }
+    ]
+  },
+  {
+    "category": "Food",
+    "icon": "🍔",
+    "items": [
+      {
+        "name": "TheMealDB",
+        "freeTier": "Free (Open Source)",
+        "useCase": "Recipe database, meal search",
+        "url": "https://www.themealdb.com/api.php",
+        "tier": "free"
+      },
+      {
+        "name": "Open Food Facts",
+        "freeTier": "Unlimited",
+        "useCase": "Nutrition, ingredients, allergens",
+        "url": "https://world.openfoodfacts.org/data",
+        "tier": "free"
+      }
+    ]
+  },
+  {
+    "category": "Pets",
+    "icon": "🐕",
+    "items": [
+      {
+        "name": "TheDogAPI",
+        "freeTier": "Free (with key)",
+        "useCase": "Dog breeds, images, facts",
+        "url": "https://thedogapi.com",
+        "tier": "free"
+      },
+      {
+        "name": "TheCatAPI",
+        "freeTier": "Free (with key)",
+        "useCase": "Cat breeds, images, facts",
+        "url": "https://thecatapi.com",
+        "tier": "free"
+      },
+      {
+        "name": "Petfinder",
+        "freeTier": "Free",
+        "useCase": "Adoptable pets database",
+        "url": "https://www.petfinder.com/developers",
+        "tier": "free"
+      }
+    ]
+  },
+  {
+    "category": "Business / CRM",
+    "icon": "💼",
+    "items": [
+      {
+        "name": "HubSpot CRM",
+        "freeTier": "Free (core features)",
+        "useCase": "Contact management, email, deals",
+        "url": "https://developers.hubspot.com",
+        "tier": "generous"
+      },
+      {
+        "name": "Zoho CRM",
+        "freeTier": "Free (3 users)",
+        "useCase": "Sales, marketing, REST API",
+        "url": "https://www.zoho.com/crm/developer/",
+        "tier": "generous"
+      }
+    ]
+  },
+  {
+    "category": "Finance",
+    "icon": "💰",
+    "items": [
+      {
+        "name": "CoinGecko",
+        "freeTier": "50 calls/min",
+        "useCase": "Crypto prices, market data",
+        "url": "https://www.coingecko.com/en/api",
+        "tier": "generous"
+      },
+      {
+        "name": "Alpha Vantage",
+        "freeTier": "25 req/day",
+        "useCase": "Stocks, forex, crypto",
+        "url": "https://www.alphavantage.co",
+        "tier": "generous"
+      }
+    ]
+  },
+  {
+    "category": "Sports",
+    "icon": "🏃",
+    "items": [
+      {
+        "name": "API-Football",
+        "freeTier": "100 req/day",
+        "useCase": "Live scores, fixtures, standings",
+        "url": "https://www.api-football.com",
+        "tier": "generous"
+      },
+      {
+        "name": "Strava API",
+        "freeTier": "Free (OAuth)",
+        "useCase": "Activity tracking, athlete data",
+        "url": "https://developers.strava.com",
+        "tier": "free"
+      }
+    ]
+  },
+  {
+    "category": "Fun / Engagement",
+    "icon": "🎭",
+    "items": [
+      {
+        "name": "Giphy",
+        "freeTier": "Free",
+        "useCase": "GIF search, trending",
+        "url": "https://developers.giphy.com",
+        "tier": "free"
+      },
+      {
+        "name": "Open Trivia DB",
+        "freeTier": "Unlimited",
+        "useCase": "Quiz questions (5k+)",
+        "url": "https://opentdb.com/api_config.php",
+        "tier": "free"
+      },
+      {
+        "name": "Random User",
+        "freeTier": "Unlimited",
+        "useCase": "Fake user data for demos",
+        "url": "https://randomuser.me",
+        "tier": "free"
+      }
+    ]
+  },
+  {
+    "category": "Cars & Vehicles",
+    "icon": "🚗",
+    "items": [
+      {
+        "name": "Free Cars API",
+        "freeTier": "Free tier",
+        "useCase": "VIN decoding, make/model search",
+        "url": "https://www.freecarsapi.com",
+        "tier": "generous"
+      },
+      {
+        "name": "Vehicle Databases",
+        "freeTier": "Free credits",
+        "useCase": "80M+ vehicle records, specs",
+        "url": "https://vehicle-databases.com",
+        "tier": "credit"
+      }
+    ]
+  },
+  {
+    "category": "Aviation",
+    "icon": "✈️",
+    "items": [
+      {
+        "name": "OpenSky Network",
+        "freeTier": "Free (Open Source)",
+        "useCase": "Live flight tracking (ADS-B)",
+        "url": "https://opensky-network.org",
+        "tier": "free"
+      },
+      {
+        "name": "Aviationstack",
+        "freeTier": "100 req/mo",
+        "useCase": "Flight status, airports, airlines",
+        "url": "https://aviationstack.com",
+        "tier": "generous"
+      }
+    ]
+  },
+  {
+    "category": "Zodiac",
+    "icon": "♈",
+    "items": [
+      {
+        "name": "API Ninjas Horoscope",
+        "freeTier": "Free",
+        "useCase": "Daily horoscopes by sign",
+        "url": "https://api-ninjas.com/api/horoscope",
+        "tier": "free"
+      },
+      {
+        "name": "RoxyAPI",
+        "freeTier": "50 calls/mo",
+        "useCase": "Astrology, numerology, tarot",
+        "url": "https://roxyapi.com",
+        "tier": "generous"
+      }
+    ]
+  }
+]
